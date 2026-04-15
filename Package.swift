@@ -20,7 +20,7 @@ let package = Package(
     ],
     // Define external dependencies (via SPM).
     dependencies: [
-        .package(url: "https://github.com/idnow/sunflower-sdk-ios.git", exact: "2.1.4"),
+        .package(url: "https://github.com/idnow/sunflower-sdk-ios.git", exact: "2.1.7"),
         .package(url: "https://github.com/unissey/sdk-ios.git", exact: "4.0.0"),
     ],
     targets: [
